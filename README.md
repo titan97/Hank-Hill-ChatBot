@@ -10,7 +10,7 @@ This application requires a Discord API key and a HuggingFace API key to serve t
 
 ## Example Conversation
 
-![]()
+![](https://github.com/titan97/Hank-Hill-ChatBot/blob/main/Screenshot%202022-10-04%20142230.png)
 
 ## Implementation
 
