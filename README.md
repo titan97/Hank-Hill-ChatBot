@@ -7,6 +7,7 @@ The inference API for this chatbot is available on my HuggingFace[profile](#%20H
 
 The server for the Discord ChatBot was hosted on Replit.com and the dependencies can be found in package.json.
 This application requires a Discord API key and a HuggingFace API key to serve the intended Discord server and get a response from the model.
+The chatbot is currently not shipped as a publicly available discord bot, but can used on a private server running your own bot.
 
 ## Example Conversation
 
