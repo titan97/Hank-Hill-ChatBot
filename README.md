@@ -12,6 +12,6 @@ This application requires a Discord API key and a HuggingFace API key to serve t
 
 ![](https://github.com/titan97/Hank-Hill-ChatBot/blob/main/Screenshot%202022-10-04%20142230.png)
 
-## Implementation
+## Notes
 
-
+Occasionally the chatbot just responds with just multiple '!' characters. The chatbot frequently responds with "I'm not your buddy, pal" to uncomfortable/strange prompts/messages. This has to do with how the model was trained and the device from which the inference is obtained (CPU or GPU, where GPU is preferred). I plan on training it on a bigger model such as DialoGPT-medium and perform more hyperparameter tuning to reduce overfitting.
